@@ -1,3 +1,9 @@
+Xiaomi Mi Note 10 Lite Device Tree | Device
+
+Big thanks AndroidHQ254
+
+LineageOS 17.1 Device tree
+
 Copyright (C) 2020 The LineageOS Project
 
 Device configuration for Xiaomi Mi Note 10 Lite
