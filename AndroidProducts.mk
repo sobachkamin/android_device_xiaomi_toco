@@ -5,4 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/nitrogen_toco.mk
+    $(LOCAL_DIR)/lineage_toco.mk
+    
+COMMON_LUNCH_CHOICES := \
+    lineage_toco-user \
+    lineage_toco-userdebug \
+    lineage_toco-eng
